@@ -1,0 +1,54 @@
+[0.014s] Invoking command in '/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/src/nav2_odom_ws -DCMAKE_INSTALL_PREFIX=/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws
+[0.081s] -- The C compiler identification is GNU 11.4.0
+[0.150s] -- The CXX compiler identification is GNU 11.4.0
+[0.159s] -- Detecting C compiler ABI info
+[0.248s] -- Detecting C compiler ABI info - done
+[0.256s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.256s] -- Detecting C compile features
+[0.256s] -- Detecting C compile features - done
+[0.259s] -- Detecting CXX compiler ABI info
+[0.362s] -- Detecting CXX compiler ABI info - done
+[0.370s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.370s] -- Detecting CXX compile features
+[0.370s] -- Detecting CXX compile features - done
+[0.373s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.553s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.663s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.759s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.762s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.763s] -- Added test 'lint_cmake' to check CMake code style
+[0.764s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.765s] -- Added test 'xmllint' to check XML markup files
+[0.767s] -- Configuring done
+[0.771s] -- Generating done
+[0.773s] -- Build files have been written to: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws
+[0.779s] Invoked command in '/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/src/nav2_odom_ws -DCMAKE_INSTALL_PREFIX=/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws
+[0.781s] Invoking command in '/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws -- -j12 -l12
+[0.833s] Invoked command in '/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws -- -j12 -l12
+[0.848s] Invoking command in '/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws
+[0.858s] -- Install configuration: ""
+[0.858s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/config
+[0.858s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/config/waypoints.yaml
+[0.858s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/config/nav2_params_odom_only.yaml
+[0.859s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/config/nav2_odom_only.rviz
+[0.859s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/launch
+[0.859s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/launch/navigation_odom_only.launch.py
+[0.859s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/launch/launch_sim_ign.launch.py
+[0.859s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/launch/__pycache__
+[0.859s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/launch/__pycache__/launch_sim_ign.launch.cpython-310.pyc
+[0.860s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/ament_index/resource_index/package_run_dependencies/nav2_odom_ws
+[0.860s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/ament_index/resource_index/parent_prefix_path/nav2_odom_ws
+[0.860s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/environment/ament_prefix_path.sh
+[0.860s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/environment/ament_prefix_path.dsv
+[0.861s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/environment/path.sh
+[0.861s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/environment/path.dsv
+[0.861s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/local_setup.bash
+[0.861s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/local_setup.sh
+[0.861s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/local_setup.zsh
+[0.862s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/local_setup.dsv
+[0.862s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/package.dsv
+[0.862s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/ament_index/resource_index/packages/nav2_odom_ws
+[0.862s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/cmake/nav2_odom_wsConfig.cmake
+[0.863s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/cmake/nav2_odom_wsConfig-version.cmake
+[0.863s] -- Installing: /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/install/nav2_odom_ws/share/nav2_odom_ws/package.xml
+[0.866s] Invoked command in '/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws
