@@ -1,9 +1,0 @@
-/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws/CMakeFiles/uninstall.dir
-/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws/CMakeFiles/nav2_odom_ws_uninstall.dir
-/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws/CMakeFiles/test.dir
-/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws/CMakeFiles/edit_cache.dir
-/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws/CMakeFiles/rebuild_cache.dir
-/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws/CMakeFiles/list_install_components.dir
-/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws/CMakeFiles/install.dir
-/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws/CMakeFiles/install/local.dir
-/home/fadlan/Documents/Vision-Heroes/nav2_odom_ws/build/nav2_odom_ws/CMakeFiles/install/strip.dir
